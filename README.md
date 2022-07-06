@@ -7,7 +7,7 @@ go get github.com/vikpe/prettyfmt
 
 ## Synopsis
 
-Colors from [github.com/fatih/color](https://github.com/fatih/color)
+Colors from [github.com/fatih/color](https://github.com/fatih/color) ([list of values](https://github.com/fatih/color/blob/main/color.go#L69))
 
 ```
 New(
