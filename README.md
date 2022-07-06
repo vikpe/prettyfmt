@@ -7,7 +7,7 @@ go get github.com/vikpe/prettyfmt
 
 ## Synopsis
 
-Colors from [github.com/fatih/color](github.com/fatih/color)
+Colors from [github.com/fatih/color](https://github.com/fatih/color)
 
 ```
 New(
