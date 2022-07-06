@@ -1,4 +1,4 @@
-# prettyfmt
+# prettyfmt [![Test](https://github.com/vikpe/prettyfmt/actions/workflows/test.yml/badge.svg)](https://github.com/vikpe/prettyfmt/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/vikpe/prettyfmt/branch/main/graph/badge.svg?token=sc5Hd7M4wv)](https://codecov.io/gh/vikpe/prettyfmt)
 > Go fmt with colored prefix and timestamp
 
 ```shell
